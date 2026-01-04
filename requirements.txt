@@ -1,0 +1,27 @@
+# -----------------------
+# Core ML & Data
+# -----------------------
+numpy
+pandas
+scikit-learn
+joblib
+
+# -----------------------
+# API (FastAPI)
+# -----------------------
+fastapi
+uvicorn[standard]
+pydantic
+
+# -----------------------
+# Dashboard (Streamlit)
+# -----------------------
+streamlit
+plotly
+requests
+
+# -----------------------
+# Visualization & Utils
+# -----------------------
+matplotlib
+seaborn
